@@ -1,5 +1,6 @@
 # Basic-Python-Usage-for-Chemistry-Exercises
 📖 This work aims to practice chemistry and physics exercises using Python as a calculator. There are some solutions for tasks in this Python code.
+
 🚀 Python-based solutions: simple scripts that demonstrate how to use Python for scientific problem-solving.
 
 # Features
