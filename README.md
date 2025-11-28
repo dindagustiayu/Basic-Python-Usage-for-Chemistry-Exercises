@@ -1,11 +1,9 @@
 # Basic-Python-Usage-for-Chemistry-Exercises
-📖 This work aims to practice chemistry and physics exercises using Python as a calculator. There are some solutions for tasks in this Python code.
-
-🚀 Python-based solutions: simple scripts that demonstrate how to use Python for scientific problem-solving.
+📖 This work aims to practice chemistry and physics exercises using Python as a calculator. There are some solutions for tasks in this Python code. Python-based solutions: simple scripts that demonstrate how to use Python for scientific problem-solving.
 
 # Features
-Chemistry exercises: calculations involving molar mass, wavelength, and energy.
-Physics exercises: problems on mechanics, thermodynamics, and electromagnetism.
+  - Chemistry exercises: calculations involving molar mass, wavelength, and energy.
+  - Physics exercises: problems on mechanics, thermodynamics, and electromagnetism.
 
 ## P2.1
 The rate of the reaction between $H_{2}$ and $F_{2}$ to form HF increases by a factor of 10 when the temperature is increased from $25 ^oC$ to $47 ^oC$. What is the reaction activation energy? Assume the Arhenius equation applies.
