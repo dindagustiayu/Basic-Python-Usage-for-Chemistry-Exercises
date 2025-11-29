@@ -239,6 +239,42 @@ Lambda_nm
 
 # In[ ]:
 
+# ## P2.8
+Determine the wavelength of radiation (in nm) emitted by a transition from n=5 to n=3 in atomic hydrogen.
 
+# Rydberg's constant, in m-1.
+R = 1.097 * 10 ** 7
+
+# Orbit at the second state and initial state, in orbit.
+n2 = 5 ** 2
+n1 = 3 ** 2
+
+# Calculate the wavelength of radiation, in nm.
+lambda_m = 1/ (R * ((1/n1) - (1/n2)))
+lambda_nm = lambda_m * 10 ** 9
+lambda_nm
+1281.9051959890614
+
+# In[]:
+
+
+# ## P2.9
+Calculate the wavelenght of neutron that is moving at 3.00 x $10^{3}$ m/s.
+
+# the speed moving of neutron, in m/s.
+v = 3.00 * 10 ** 3
+
+# Planck's constant, in J.s
+h = 6.626 * 10 ** -34
+
+# Mass of neutron, in kg.
+m = 1.674929 * 10 ** -27
+
+# Calculate the wavelength of neutron, in Angstrong.
+Lambda_m = h / (m * v)
+Lambda_A = Lambda_m * 10 ** 10
+Lambda_pm = Lambda_m * 10 ** 12
+Lambda_A, Lambda_pm
+1.3186628607341964, 131.86628607341964
 
 
