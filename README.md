@@ -5,6 +5,14 @@
   - Chemistry exercises: calculations involving molar mass, wavelength, and energy.
   - Physics exercises: problems on mechanics, thermodynamics, and electromagnetism.
 
+# Key equation
+  - Einsten's relationship between mass and energy
+    - E = hv = $\frac{hc}{\lambda}=mc^{2}$
+  - De Broglie's relationship between mass, speed, and wavelength
+    - $\lambda=\frac{h}{mv}$
+  - Heisenberg's uncertainty principle
+    - $(\Delta{x})[\Delta({mv})]\geq\frac{h}{4\pi}$
+
 ## P2.1
 The rate of the reaction between $H_{2}$ and $F_{2}$ to form HF increases by a factor of 10 when the temperature is increased from $25 ^oC$ to $47 ^oC$. What is the reaction activation energy? Assume the Arhenius equation applies.
 
